@@ -17,4 +17,4 @@ Consolidar o aprendizado em HTML e CSS por meio de desafios práticos e servir c
 - Versionamento de código com Git e GitHub
 
 ##
-Confira [Meu primeiro projeto aqui](https://taniellenrodrigues.github.io/html-css-mini-projetos/DESAFIOS/DESAFIOS/DESAFIO-010/projeto01.htmlszw2qa)
+Confira [Meu primeiro projeto aqui](https://taniellenrodrigues.github.io/html-css-mini-projetos/DESAFIOS/DESAFIOS/DESAFIO-010/projeto01.html)
