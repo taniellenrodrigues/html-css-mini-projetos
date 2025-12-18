@@ -1,4 +1,4 @@
-# HTML & CSS — Desafios
+# HTML & CSS — Projetos
 
 Repositório com desafios e mini-projetos desenvolvidos durante meus estudos de HTML5 e CSS3, com base no curso do Curso em Vídeo (Gustavo Guanabara).
 
