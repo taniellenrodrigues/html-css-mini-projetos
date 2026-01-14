@@ -18,4 +18,4 @@ Consolidar o aprendizado em HTML e CSS por meio de desafios práticos e servir c
 
 ## Confira 
 
-- [Meu primeiro projeto aqui](https://taniellenrodrigues.github.io/html-css-mini-projetos/DESAFIOS/DESAFIO-010/projeto01.html)
+- [Meu primeiro projeto aqui](https://taniellenrodrigues.github.io/html-css-mini-projetos/DESAFIOS/DESAFIO-001/projeto01.html)
